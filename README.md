@@ -19,11 +19,6 @@ Ingeniero de Sistemas y maestrando en Ciencia de Datos aplicada a la Inteligenci
 ![jewar21's Stats](https://github-readme-stats.vercel.app/api?username=jewar21&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![jewar21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jewar21&theme=vue-dark&hide_border=true)
 ![jewar21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jewar21&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-### 📬 Conectemos
-
-- 💼 [LinkedIn](www.linkedin.com/in/jeduardo-guerrod)
-- ✉️ wolfyisus.dev@gmail.com
-- 🗺️ Basado en Colombia. Disponible para colaboración remota.
 
 ---
 
